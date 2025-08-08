@@ -66,5 +66,5 @@ WhatsApp shows us:
 > ✨ Sometimes, power lies in *deliberate restriction*, not endless features.
 
 
-*Author: [Your Name]*  
+*Author: Rajkumari*  
 *Date: August 2025*
