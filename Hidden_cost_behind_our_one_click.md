@@ -28,14 +28,14 @@ This file is just a space to collect my thoughts on what Mother Earth quietly pa
   - Needs tons of ultra-pure water
 - All for devices that are often replaced every 2–3 years.
 
-### 🔄 4. Constant Reuse & Reloading
+###  4. Constant Reuse & Reloading
 - Most apps reload more than needed.
 - Pages send 10x more data than they show.
 - Autoplay, auto-sync, location tracking = background computation 24/7
 
----
 
-## 🧪 The Result?
+
+##  The Result?
 
 - E-waste piling up  
 - Water resources being drained in chip fabs  
@@ -44,12 +44,12 @@ This file is just a space to collect my thoughts on what Mother Earth quietly pa
 
 We don’t feel it. But the Earth does.
 
----
 
-## 🤔 Why I'm Writing This
+
+##  Why I'm Writing This
 
 Just a personal realization:
-> "Even if the chip is small, the system that built it is huge. And nature pays for every part of it."
+"Even if the chip is small, the system that built it is huge. And nature pays for every part of it."
 
 I’m not against tech — I’m building it myself.  
 But I want to build with **awareness**, not ignorance.
@@ -59,9 +59,9 @@ I want to keep asking:
 - Can we avoid wasteful re-computation?
 - Can we choose better defaults?
 
----
 
-## 🛠️ What I'm Doing About It
+
+## 🛠 What I'm Doing About It
 
 - Working on a project that tracks **CPU ‘hottest streaks’** to detect unnecessary load.
 - Planning to explore tools that make ML more energy-aware.
